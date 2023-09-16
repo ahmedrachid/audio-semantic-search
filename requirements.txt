@@ -1,17 +1,15 @@
-opencv-python
-cmake
-pyyaml
-streamlit==1.22.0
-face_recognition @ git+https://github.com/thetoby9944/face_recognition
-datasets
-pinecone-client[grpc]
-facenet-pytorch
-requests
-Pillow
+streamlit
 psycopg2-binary
 SQLAlchemy
 pandas
 numpy
 ipython
-streamlit-webrtc
 matplotlib
+panns-inference
+pedalboard 
+streamlit-audiorecorder
+audio-recorder-streamlit
+librosa
+torch
+SQLAlchemy
+scipy
