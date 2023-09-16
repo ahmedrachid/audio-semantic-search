@@ -1,0 +1,17 @@
+opencv-python
+cmake
+pyyaml
+streamlit==1.22.0
+face_recognition @ git+https://github.com/thetoby9944/face_recognition
+datasets
+pinecone-client[grpc]
+facenet-pytorch
+requests
+Pillow
+psycopg2-binary
+SQLAlchemy
+pandas
+numpy
+ipython
+streamlit-webrtc
+matplotlib
