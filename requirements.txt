@@ -13,3 +13,7 @@ librosa
 torch
 SQLAlchemy
 scipy
+transformers
+datasets
+tensorflow 
+pedalboard
