@@ -10,6 +10,7 @@ Follow these steps to set up the audio search system on your local machine.
 
 - [Greenplum Database](https://greenplum.org/)
 - [pgvector extension](https://github.com/pgvector/pgvector)
+- [Kaggle API Access](https://www.kaggle.com/docs/api)
 - [Docker](https://www.docker.com/)
 - Jupyter Notebook
 - Python dependencies (requirements.txt)
