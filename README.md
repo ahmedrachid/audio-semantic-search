@@ -9,6 +9,7 @@ Follow these steps to set up the audio search system on your local machine.
 ### Prerequisites
 
 - [Greenplum Database](https://greenplum.org/)
+- [pgvector extension](https://github.com/pgvector/pgvector)
 - [Docker](https://www.docker.com/)
 - Jupyter Notebook
 - Python dependencies (requirements.txt)
