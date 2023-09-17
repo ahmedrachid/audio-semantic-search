@@ -1,6 +1,7 @@
 # Greenplum Audio Semantic Search
 
 This repository provides instructions and code for setting up an Audio/Music Semantic Search engine leveraging VMware Greenplum as Vector Database.
+![Streamlit App](streamlit_app.png)
 
 ## Getting Started
 
