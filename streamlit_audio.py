@@ -11,7 +11,7 @@ from scipy.io import wavfile
 import io
 import librosa
 
-engine = create_engine('postgresql://gpadmin:Ahmed0409@34.163.202.105:5432/demo_gpdb')
+engine = create_engine('postgresql://gpadmin@localhost:5432/demo_gpdb')
 
 def find_similar_audios(vector, limit):
     query = """SELECT name, artist, audio, genre
