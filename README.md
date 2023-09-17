@@ -27,7 +27,7 @@ Follow these steps to set up the audio search system on your local machine.
 
 ### Step 2: Generate Embeddings
 
-1. Use a Jupyter Notebook to download the dataset and generate embeddings.
+1. Use the Jupyter Notebook to download the dataset and generate embeddings into Greenplum.
 2. Install the required Python packages listed in `requirements.txt`.
 
 ### Step 3: Build Docker Image
